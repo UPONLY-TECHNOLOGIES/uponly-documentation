@@ -1,9 +1,114 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 OPR/114.0.0.0" version="25.0.0">
   <diagram name="Page-1" id="zmxZgUa_38jgLE6EmigK">
-    <mxGraphModel>
+    <mxGraphModel dx="1369" dy="1955" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="XWHrOrHNhLMYfdM_3WN3-1" value="" style="line;strokeWidth=10;direction=south;html=1;fillColor=none;fontSize=13;fontColor=#000000;align=center;strokeColor=#AE4132;" vertex="1" parent="1">
+          <mxGeometry x="360" y="70" width="10" height="1540" as="geometry" />
+        </mxCell>
+        <mxCell id="XWHrOrHNhLMYfdM_3WN3-2" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;strokeWidth=1;fillColor=#F2931E;fontSize=13;fontColor=#FFFFFF;align=center;gradientColor=none;gradientDirection=east;verticalAlign=top;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="135" width="220" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="XWHrOrHNhLMYfdM_3WN3-3" value="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=30;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="180" y="172.5" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="XWHrOrHNhLMYfdM_3WN3-4" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;strokeWidth=1;fillColor=#10739E;fontSize=13;fontColor=#FFFFFF;align=center;gradientColor=none;gradientDirection=east;verticalAlign=top;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="270" width="220" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="XWHrOrHNhLMYfdM_3WN3-5" value="2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=30;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="345" y="315" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="XWHrOrHNhLMYfdM_3WN3-6" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;strokeWidth=1;fillColor=#F2931E;fontSize=13;fontColor=#FFFFFF;align=center;gradientColor=none;gradientDirection=east;verticalAlign=top;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="410" width="220" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="XWHrOrHNhLMYfdM_3WN3-7" value="3" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=30;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="180" y="450" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="XWHrOrHNhLMYfdM_3WN3-8" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;strokeWidth=1;fillColor=#10739E;fontSize=13;fontColor=#FFFFFF;align=center;gradientColor=none;gradientDirection=east;verticalAlign=top;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="345" y="550" width="220" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="XWHrOrHNhLMYfdM_3WN3-9" value="4" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=30;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="350" y="585" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="XWHrOrHNhLMYfdM_3WN3-10" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;strokeWidth=1;fillColor=#F2931E;fontSize=13;fontColor=#FFFFFF;align=center;gradientColor=none;gradientDirection=east;verticalAlign=top;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="670" width="220" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="XWHrOrHNhLMYfdM_3WN3-11" value="5" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=30;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="180" y="710" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="XWHrOrHNhLMYfdM_3WN3-12" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;strokeWidth=1;fillColor=#10739E;fontSize=13;fontColor=#FFFFFF;align=center;gradientColor=none;gradientDirection=east;verticalAlign=top;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="345" y="810" width="220" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="XWHrOrHNhLMYfdM_3WN3-13" value="6" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=30;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="360" y="850" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="XWHrOrHNhLMYfdM_3WN3-14" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;strokeWidth=1;fillColor=#F2931E;fontSize=13;fontColor=#FFFFFF;align=center;gradientColor=none;gradientDirection=east;verticalAlign=top;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="175" y="940" width="220" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="XWHrOrHNhLMYfdM_3WN3-15" value="7" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=30;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="180" y="980" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="XWHrOrHNhLMYfdM_3WN3-16" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;strokeWidth=1;fillColor=#10739E;fontSize=13;fontColor=#FFFFFF;align=center;gradientColor=none;gradientDirection=east;verticalAlign=top;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="345" y="1080" width="220" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="XWHrOrHNhLMYfdM_3WN3-17" value="8" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=30;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="360" y="1115" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="XWHrOrHNhLMYfdM_3WN3-18" value="&lt;h1&gt;Feb 16 - Feb 22&lt;/h1&gt;&lt;p&gt;Monitor the team&#39;s progress and provide guidance during initial development&lt;br&gt;&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=4;fillColor=none;gradientColor=#007FFF;fontSize=9;fontColor=#FFFFFF;align=center;" vertex="1" parent="1">
+          <mxGeometry x="210" y="147" width="160" height="71" as="geometry" />
+        </mxCell>
+        <mxCell id="XWHrOrHNhLMYfdM_3WN3-19" value="&lt;h1&gt;&lt;span style=&quot;white-space: normal;&quot;&gt;Feb 23 - Feb 29&lt;/span&gt;&lt;br&gt;&lt;/h1&gt;&lt;p&gt;- Review development progress and identify areas for improvement&lt;/p&gt;&lt;p&gt;- Incorporate user feedback and plan additional features&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=4;fillColor=none;gradientColor=#007FFF;fontSize=9;fontColor=#FFFFFF;align=center;" vertex="1" parent="1">
+          <mxGeometry x="380" y="277" width="160" height="96" as="geometry" />
+        </mxCell>
+        <mxCell id="XWHrOrHNhLMYfdM_3WN3-20" value="&lt;h1&gt;Mar 1 - Mar 7&lt;/h1&gt;&lt;p&gt;Continue development, focusing on core functionality and new features&lt;br&gt;&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=4;fillColor=none;gradientColor=#007FFF;fontSize=9;fontColor=#FFFFFF;align=center;" vertex="1" parent="1">
+          <mxGeometry x="210" y="420" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="XWHrOrHNhLMYfdM_3WN3-21" value="&lt;h1&gt;&lt;span style=&quot;white-space: normal;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Mar 8 - Mar 14&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-size: 9px; font-weight: normal;&quot;&gt;-&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-weight: 400;&quot;&gt;&lt;font size=&quot;1&quot;&gt;-&amp;nbsp;&lt;/font&gt;&lt;/span&gt;&lt;/h1&gt;&lt;div&gt;Enhance the application with planned additional features and integrations&lt;span style=&quot;background-color: initial; font-weight: 400;&quot;&gt;&lt;font size=&quot;1&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=4;fillColor=none;gradientColor=#007FFF;fontSize=9;fontColor=#FFFFFF;align=center;" vertex="1" parent="1">
+          <mxGeometry x="395" y="557" width="160" height="83" as="geometry" />
+        </mxCell>
+        <mxCell id="XWHrOrHNhLMYfdM_3WN3-22" value="&lt;h1&gt;&lt;span style=&quot;white-space: normal;&quot;&gt;Mar 15 - Mar 21&lt;/span&gt;&lt;br&gt;&lt;/h1&gt;&lt;p&gt;Finalize the core functionality and new features of the application&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=4;fillColor=none;gradientColor=#007FFF;fontSize=9;fontColor=#FFFFFF;align=center;" vertex="1" parent="1">
+          <mxGeometry x="210" y="683.5" width="160" height="73" as="geometry" />
+        </mxCell>
+        <mxCell id="XWHrOrHNhLMYfdM_3WN3-23" value="&lt;h1&gt;Mar 22 - Mar 28&lt;/h1&gt;&lt;p&gt;Conduct thorough testing and address identified issues&lt;br&gt;&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=4;fillColor=none;gradientColor=#007FFF;fontSize=9;fontColor=#FFFFFF;align=center;" vertex="1" parent="1">
+          <mxGeometry x="385" y="823.5" width="160" height="73" as="geometry" />
+        </mxCell>
+        <mxCell id="XWHrOrHNhLMYfdM_3WN3-24" value="&lt;h1&gt;Mar 29 - Apr 4&lt;/h1&gt;&lt;p&gt;Prepare for the release of the application&lt;br&gt;&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=4;fillColor=none;gradientColor=#007FFF;fontSize=9;fontColor=#FFFFFF;align=center;" vertex="1" parent="1">
+          <mxGeometry x="220" y="960" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XWHrOrHNhLMYfdM_3WN3-25" value="&lt;h1&gt;Apr 5 - Apr 11&lt;/h1&gt;&lt;p&gt;Finalize the release and coordinate with stakeholders&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=4;fillColor=none;gradientColor=#007FFF;fontSize=9;fontColor=#FFFFFF;align=center;" vertex="1" parent="1">
+          <mxGeometry x="390" y="1095" width="160" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="XWHrOrHNhLMYfdM_3WN3-26" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;strokeWidth=1;fillColor=#F2931E;fontSize=13;fontColor=#FFFFFF;align=center;gradientColor=none;gradientDirection=east;verticalAlign=top;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="165" y="1210" width="220" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="XWHrOrHNhLMYfdM_3WN3-27" value="9" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=30;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="180" y="1245" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="XWHrOrHNhLMYfdM_3WN3-28" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;strokeWidth=1;fillColor=#10739E;fontSize=13;fontColor=#FFFFFF;align=center;gradientColor=none;gradientDirection=east;verticalAlign=top;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="335" y="1325" width="220" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="XWHrOrHNhLMYfdM_3WN3-29" value="10" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=30;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="350" y="1362.5" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="XWHrOrHNhLMYfdM_3WN3-30" value="&lt;h1&gt;Apr 12 - Apr 18&lt;/h1&gt;&lt;p&gt;Release the React Native-based Uponly PRO application and provide post-launch support&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=4;fillColor=none;gradientColor=#007FFF;fontSize=9;fontColor=#FFFFFF;align=center;" vertex="1" parent="1">
+          <mxGeometry x="210" y="1216.5" width="160" height="77" as="geometry" />
+        </mxCell>
+        <mxCell id="XWHrOrHNhLMYfdM_3WN3-31" value="&lt;h1&gt;Apr 19 - Apr 25&lt;br&gt;&lt;/h1&gt;&lt;p&gt;Monitor the application&#39;s performance and gather user feedback&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=4;fillColor=none;gradientColor=#007FFF;fontSize=9;fontColor=#FFFFFF;align=center;" vertex="1" parent="1">
+          <mxGeometry x="385" y="1334" width="160" height="77" as="geometry" />
+        </mxCell>
+        <mxCell id="XWHrOrHNhLMYfdM_3WN3-32" value="&lt;b&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;PRO Revamp Timeline &lt;br&gt;[ Phase 2 ]&lt;br&gt;(&lt;/font&gt;&lt;/b&gt;&lt;b&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;Feb 16&lt;/font&gt;&lt;/b&gt;&lt;b&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;&amp;nbsp;- May 2)&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="-70" width="390" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="XWHrOrHNhLMYfdM_3WN3-33" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;strokeWidth=1;fillColor=#F2931E;fontSize=13;fontColor=#FFFFFF;align=center;gradientColor=none;gradientDirection=east;verticalAlign=top;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="165" y="1460" width="220" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="XWHrOrHNhLMYfdM_3WN3-34" value="11" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=30;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="180" y="1500" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="XWHrOrHNhLMYfdM_3WN3-35" value="&lt;h1&gt;&lt;span style=&quot;white-space: normal;&quot;&gt;Apr 26 - May 2&lt;/span&gt;&lt;br&gt;&lt;/h1&gt;&lt;p&gt;Analyze user feedback and plan necessary updates or improvements&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=4;fillColor=none;gradientColor=#007FFF;fontSize=9;fontColor=#FFFFFF;align=center;" vertex="1" parent="1">
+          <mxGeometry x="220" y="1471.5" width="160" height="77" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
