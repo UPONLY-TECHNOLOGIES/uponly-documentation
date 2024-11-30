@@ -1,113 +1,221 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 OPR/114.0.0.0" version="25.0.0">
   <diagram name="Page-1" id="zmxZgUa_38jgLE6EmigK">
-    <mxGraphModel dx="685" dy="1527" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3360" dy="2667" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="XWHrOrHNhLMYfdM_3WN3-1" value="" style="line;strokeWidth=10;direction=south;html=1;fillColor=none;fontSize=13;fontColor=#000000;align=center;strokeColor=#AE4132;" parent="1" vertex="1">
-          <mxGeometry x="360" y="70" width="10" height="1540" as="geometry" />
+          <mxGeometry x="420" y="10" width="10" height="1540" as="geometry" />
         </mxCell>
         <mxCell id="XWHrOrHNhLMYfdM_3WN3-2" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;strokeWidth=1;fillColor=#F2931E;fontSize=13;fontColor=#FFFFFF;align=center;gradientColor=none;gradientDirection=east;verticalAlign=top;shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="170" y="135" width="220" height="95" as="geometry" />
+          <mxGeometry x="230" y="75" width="220" height="95" as="geometry" />
         </mxCell>
         <mxCell id="XWHrOrHNhLMYfdM_3WN3-3" value="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=30;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="180" y="172.5" width="40" height="20" as="geometry" />
+          <mxGeometry x="240" y="112.5" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="XWHrOrHNhLMYfdM_3WN3-4" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;strokeWidth=1;fillColor=#10739E;fontSize=13;fontColor=#FFFFFF;align=center;gradientColor=none;gradientDirection=east;verticalAlign=top;shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="340" y="270" width="220" height="110" as="geometry" />
+          <mxGeometry x="400" y="210" width="220" height="110" as="geometry" />
         </mxCell>
         <mxCell id="XWHrOrHNhLMYfdM_3WN3-5" value="2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=30;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="345" y="315" width="40" height="20" as="geometry" />
+          <mxGeometry x="405" y="255" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="XWHrOrHNhLMYfdM_3WN3-6" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;strokeWidth=1;fillColor=#F2931E;fontSize=13;fontColor=#FFFFFF;align=center;gradientColor=none;gradientDirection=east;verticalAlign=top;shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="170" y="410" width="220" height="100" as="geometry" />
+          <mxGeometry x="230" y="350" width="220" height="100" as="geometry" />
         </mxCell>
         <mxCell id="XWHrOrHNhLMYfdM_3WN3-7" value="3" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=30;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="180" y="450" width="40" height="20" as="geometry" />
+          <mxGeometry x="240" y="390" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="XWHrOrHNhLMYfdM_3WN3-8" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;strokeWidth=1;fillColor=#10739E;fontSize=13;fontColor=#FFFFFF;align=center;gradientColor=none;gradientDirection=east;verticalAlign=top;shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="345" y="550" width="220" height="90" as="geometry" />
+          <mxGeometry x="405" y="490" width="220" height="90" as="geometry" />
         </mxCell>
         <mxCell id="XWHrOrHNhLMYfdM_3WN3-9" value="4" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=30;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="350" y="585" width="40" height="20" as="geometry" />
+          <mxGeometry x="410" y="525" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="XWHrOrHNhLMYfdM_3WN3-10" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;strokeWidth=1;fillColor=#F2931E;fontSize=13;fontColor=#FFFFFF;align=center;gradientColor=none;gradientDirection=east;verticalAlign=top;shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="170" y="670" width="220" height="100" as="geometry" />
+          <mxGeometry x="230" y="610" width="220" height="100" as="geometry" />
         </mxCell>
         <mxCell id="XWHrOrHNhLMYfdM_3WN3-11" value="5" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=30;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="180" y="710" width="40" height="20" as="geometry" />
+          <mxGeometry x="240" y="650" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="XWHrOrHNhLMYfdM_3WN3-12" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;strokeWidth=1;fillColor=#10739E;fontSize=13;fontColor=#FFFFFF;align=center;gradientColor=none;gradientDirection=east;verticalAlign=top;shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="345" y="810" width="220" height="100" as="geometry" />
+          <mxGeometry x="405" y="750" width="220" height="100" as="geometry" />
         </mxCell>
         <mxCell id="XWHrOrHNhLMYfdM_3WN3-13" value="6" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=30;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="360" y="850" width="40" height="20" as="geometry" />
+          <mxGeometry x="420" y="790" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="XWHrOrHNhLMYfdM_3WN3-14" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;strokeWidth=1;fillColor=#F2931E;fontSize=13;fontColor=#FFFFFF;align=center;gradientColor=none;gradientDirection=east;verticalAlign=top;shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="175" y="940" width="220" height="100" as="geometry" />
+          <mxGeometry x="235" y="880" width="220" height="100" as="geometry" />
         </mxCell>
         <mxCell id="XWHrOrHNhLMYfdM_3WN3-15" value="7" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=30;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="180" y="980" width="40" height="20" as="geometry" />
+          <mxGeometry x="240" y="920" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="XWHrOrHNhLMYfdM_3WN3-16" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;strokeWidth=1;fillColor=#10739E;fontSize=13;fontColor=#FFFFFF;align=center;gradientColor=none;gradientDirection=east;verticalAlign=top;shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="345" y="1080" width="220" height="90" as="geometry" />
+          <mxGeometry x="405" y="1020" width="220" height="90" as="geometry" />
         </mxCell>
         <mxCell id="XWHrOrHNhLMYfdM_3WN3-17" value="8" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=30;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="360" y="1115" width="40" height="20" as="geometry" />
+          <mxGeometry x="420" y="1055" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="XWHrOrHNhLMYfdM_3WN3-18" value="&lt;h1&gt;Feb 16 - Feb 22&lt;/h1&gt;&lt;p&gt;Monitor the team&#39;s progress and provide guidance during initial development&lt;br&gt;&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=4;fillColor=none;gradientColor=#007FFF;fontSize=9;fontColor=#FFFFFF;align=center;" parent="1" vertex="1">
-          <mxGeometry x="210" y="147" width="160" height="71" as="geometry" />
+          <mxGeometry x="270" y="87" width="160" height="71" as="geometry" />
         </mxCell>
         <mxCell id="XWHrOrHNhLMYfdM_3WN3-19" value="&lt;h1&gt;&lt;span style=&quot;white-space: normal;&quot;&gt;Feb 23 - Feb 29&lt;/span&gt;&lt;br&gt;&lt;/h1&gt;&lt;p&gt;- Review development progress and identify areas for improvement&lt;/p&gt;&lt;p&gt;- Incorporate user feedback and plan additional features&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=4;fillColor=none;gradientColor=#007FFF;fontSize=9;fontColor=#FFFFFF;align=center;" parent="1" vertex="1">
-          <mxGeometry x="380" y="277" width="160" height="96" as="geometry" />
+          <mxGeometry x="440" y="217" width="160" height="96" as="geometry" />
         </mxCell>
         <mxCell id="XWHrOrHNhLMYfdM_3WN3-20" value="&lt;h1&gt;Mar 1 - Mar 7&lt;/h1&gt;&lt;p&gt;Continue development, focusing on core functionality and new features&lt;br&gt;&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=4;fillColor=none;gradientColor=#007FFF;fontSize=9;fontColor=#FFFFFF;align=center;" parent="1" vertex="1">
-          <mxGeometry x="210" y="420" width="160" height="80" as="geometry" />
+          <mxGeometry x="270" y="360" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="XWHrOrHNhLMYfdM_3WN3-21" value="&lt;h1&gt;&lt;span style=&quot;white-space: normal;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Mar 8 - Mar 14&lt;/span&gt;&lt;/span&gt;&lt;/h1&gt;&lt;div&gt;Enhance the application with planned additional features and integrations&lt;span style=&quot;background-color: initial; font-weight: 400;&quot;&gt;&lt;font size=&quot;1&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=4;fillColor=none;gradientColor=#007FFF;fontSize=9;fontColor=#FFFFFF;align=center;" parent="1" vertex="1">
-          <mxGeometry x="395" y="557" width="160" height="83" as="geometry" />
+          <mxGeometry x="455" y="497" width="160" height="83" as="geometry" />
         </mxCell>
         <mxCell id="XWHrOrHNhLMYfdM_3WN3-22" value="&lt;h1&gt;&lt;span style=&quot;white-space: normal;&quot;&gt;Mar 15 - Mar 21&lt;/span&gt;&lt;br&gt;&lt;/h1&gt;&lt;p&gt;Finalize the core functionality and new features of the application&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=4;fillColor=none;gradientColor=#007FFF;fontSize=9;fontColor=#FFFFFF;align=center;" parent="1" vertex="1">
-          <mxGeometry x="210" y="683.5" width="160" height="73" as="geometry" />
+          <mxGeometry x="270" y="623.5" width="160" height="73" as="geometry" />
         </mxCell>
         <mxCell id="XWHrOrHNhLMYfdM_3WN3-23" value="&lt;h1&gt;Mar 22 - Mar 28&lt;/h1&gt;&lt;p&gt;Conduct thorough testing and address identified issues&lt;br&gt;&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=4;fillColor=none;gradientColor=#007FFF;fontSize=9;fontColor=#FFFFFF;align=center;" parent="1" vertex="1">
-          <mxGeometry x="385" y="823.5" width="160" height="73" as="geometry" />
+          <mxGeometry x="445" y="763.5" width="160" height="73" as="geometry" />
         </mxCell>
         <mxCell id="XWHrOrHNhLMYfdM_3WN3-24" value="&lt;h1&gt;Mar 29 - Apr 4&lt;/h1&gt;&lt;p&gt;Prepare for the release of the application&lt;br&gt;&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=4;fillColor=none;gradientColor=#007FFF;fontSize=9;fontColor=#FFFFFF;align=center;" parent="1" vertex="1">
-          <mxGeometry x="220" y="960" width="160" height="60" as="geometry" />
+          <mxGeometry x="280" y="900" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="XWHrOrHNhLMYfdM_3WN3-25" value="&lt;h1&gt;Apr 5 - Apr 11&lt;/h1&gt;&lt;p&gt;Finalize the release and coordinate with stakeholders&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=4;fillColor=none;gradientColor=#007FFF;fontSize=9;fontColor=#FFFFFF;align=center;" parent="1" vertex="1">
-          <mxGeometry x="390" y="1095" width="160" height="75" as="geometry" />
+          <mxGeometry x="450" y="1035" width="160" height="75" as="geometry" />
         </mxCell>
         <mxCell id="XWHrOrHNhLMYfdM_3WN3-26" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;strokeWidth=1;fillColor=#F2931E;fontSize=13;fontColor=#FFFFFF;align=center;gradientColor=none;gradientDirection=east;verticalAlign=top;shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="165" y="1210" width="220" height="90" as="geometry" />
+          <mxGeometry x="225" y="1150" width="220" height="90" as="geometry" />
         </mxCell>
         <mxCell id="XWHrOrHNhLMYfdM_3WN3-27" value="9" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=30;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="180" y="1245" width="40" height="20" as="geometry" />
+          <mxGeometry x="240" y="1185" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="XWHrOrHNhLMYfdM_3WN3-28" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;strokeWidth=1;fillColor=#10739E;fontSize=13;fontColor=#FFFFFF;align=center;gradientColor=none;gradientDirection=east;verticalAlign=top;shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="335" y="1325" width="220" height="95" as="geometry" />
+          <mxGeometry x="395" y="1265" width="220" height="95" as="geometry" />
         </mxCell>
         <mxCell id="XWHrOrHNhLMYfdM_3WN3-29" value="10" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=30;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="350" y="1362.5" width="40" height="20" as="geometry" />
+          <mxGeometry x="410" y="1302.5" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="XWHrOrHNhLMYfdM_3WN3-30" value="&lt;h1&gt;Apr 12 - Apr 18&lt;/h1&gt;&lt;p&gt;Release the React Native-based Uponly PRO application and provide post-launch support&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=4;fillColor=none;gradientColor=#007FFF;fontSize=9;fontColor=#FFFFFF;align=center;" parent="1" vertex="1">
-          <mxGeometry x="210" y="1216.5" width="160" height="77" as="geometry" />
+          <mxGeometry x="270" y="1156.5" width="160" height="77" as="geometry" />
         </mxCell>
         <mxCell id="XWHrOrHNhLMYfdM_3WN3-31" value="&lt;h1&gt;Apr 19 - Apr 25&lt;br&gt;&lt;/h1&gt;&lt;p&gt;Monitor the application&#39;s performance and gather user feedback&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=4;fillColor=none;gradientColor=#007FFF;fontSize=9;fontColor=#FFFFFF;align=center;" parent="1" vertex="1">
-          <mxGeometry x="385" y="1334" width="160" height="77" as="geometry" />
+          <mxGeometry x="445" y="1274" width="160" height="77" as="geometry" />
         </mxCell>
         <mxCell id="XWHrOrHNhLMYfdM_3WN3-32" value="&lt;b&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;PRO Revamp Timeline &lt;br&gt;[ Phase 2 ]&lt;br&gt;(&lt;/font&gt;&lt;/b&gt;&lt;b&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;Feb 16&lt;/font&gt;&lt;/b&gt;&lt;b&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;&amp;nbsp;- May 2)&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="170" y="-70" width="390" height="160" as="geometry" />
+          <mxGeometry x="230" y="-130" width="390" height="160" as="geometry" />
         </mxCell>
         <mxCell id="XWHrOrHNhLMYfdM_3WN3-33" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;strokeWidth=1;fillColor=#F2931E;fontSize=13;fontColor=#FFFFFF;align=center;gradientColor=none;gradientDirection=east;verticalAlign=top;shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="165" y="1460" width="220" height="100" as="geometry" />
+          <mxGeometry x="225" y="1400" width="220" height="100" as="geometry" />
         </mxCell>
         <mxCell id="XWHrOrHNhLMYfdM_3WN3-34" value="11" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=30;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="180" y="1500" width="40" height="20" as="geometry" />
+          <mxGeometry x="240" y="1440" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="XWHrOrHNhLMYfdM_3WN3-35" value="&lt;h1&gt;&lt;span style=&quot;white-space: normal;&quot;&gt;Apr 26 - May 2&lt;/span&gt;&lt;br&gt;&lt;/h1&gt;&lt;p&gt;Analyze user feedback and plan necessary updates or improvements&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=4;fillColor=none;gradientColor=#007FFF;fontSize=9;fontColor=#FFFFFF;align=center;" parent="1" vertex="1">
-          <mxGeometry x="220" y="1471.5" width="160" height="77" as="geometry" />
+          <mxGeometry x="280" y="1411.5" width="160" height="77" as="geometry" />
+        </mxCell>
+        <mxCell id="QSUy4tFUz2pQAqIfRtLM-36" value="" style="line;strokeWidth=10;direction=south;html=1;fillColor=none;fontSize=13;fontColor=#000000;align=center;strokeColor=#AE4132;" vertex="1" parent="1">
+          <mxGeometry x="-430" y="10" width="10" height="1560" as="geometry" />
+        </mxCell>
+        <mxCell id="QSUy4tFUz2pQAqIfRtLM-37" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;strokeWidth=1;fillColor=#F2931E;fontSize=13;fontColor=#FFFFFF;align=center;gradientColor=none;gradientDirection=east;verticalAlign=top;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="-620" y="75" width="220" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="QSUy4tFUz2pQAqIfRtLM-38" value="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=30;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="-610" y="127.5" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="QSUy4tFUz2pQAqIfRtLM-39" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;strokeWidth=1;fillColor=#10739E;fontSize=13;fontColor=#FFFFFF;align=center;gradientColor=none;gradientDirection=east;verticalAlign=top;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="-450" y="230" width="220" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="QSUy4tFUz2pQAqIfRtLM-40" value="2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=30;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="-440" y="265" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="QSUy4tFUz2pQAqIfRtLM-41" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;strokeWidth=1;fillColor=#F2931E;fontSize=13;fontColor=#FFFFFF;align=center;gradientColor=none;gradientDirection=east;verticalAlign=top;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="-620" y="340" width="220" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="QSUy4tFUz2pQAqIfRtLM-42" value="3" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=30;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="-610" y="395" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="QSUy4tFUz2pQAqIfRtLM-43" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;strokeWidth=1;fillColor=#10739E;fontSize=13;fontColor=#FFFFFF;align=center;gradientColor=none;gradientDirection=east;verticalAlign=top;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="-450" y="500" width="220" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="QSUy4tFUz2pQAqIfRtLM-44" value="4" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=30;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="-445" y="550" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="QSUy4tFUz2pQAqIfRtLM-45" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;strokeWidth=1;fillColor=#F2931E;fontSize=13;fontColor=#FFFFFF;align=center;gradientColor=none;gradientDirection=east;verticalAlign=top;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="-620" y="650" width="220" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="QSUy4tFUz2pQAqIfRtLM-46" value="5" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=30;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="-610" y="690" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="QSUy4tFUz2pQAqIfRtLM-47" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;strokeWidth=1;fillColor=#10739E;fontSize=13;fontColor=#FFFFFF;align=center;gradientColor=none;gradientDirection=east;verticalAlign=top;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="-450" y="780" width="220" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="QSUy4tFUz2pQAqIfRtLM-48" value="6" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=30;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="-445" y="830" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="QSUy4tFUz2pQAqIfRtLM-49" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;strokeWidth=1;fillColor=#F2931E;fontSize=13;fontColor=#FFFFFF;align=center;gradientColor=none;gradientDirection=east;verticalAlign=top;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="-620" y="930" width="220" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="QSUy4tFUz2pQAqIfRtLM-50" value="7" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=30;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="-610" y="980" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="QSUy4tFUz2pQAqIfRtLM-51" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;strokeWidth=1;fillColor=#10739E;fontSize=13;fontColor=#FFFFFF;align=center;gradientColor=none;gradientDirection=east;verticalAlign=top;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="-450" y="1070" width="220" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="QSUy4tFUz2pQAqIfRtLM-52" value="8" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=30;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="-445" y="1110" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="QSUy4tFUz2pQAqIfRtLM-53" value="&lt;h1&gt;Dec 1 - Dec 7&lt;/h1&gt;&lt;p&gt;- Familiarize with the React Native framework and its core concepts&lt;br&gt;&lt;br&gt;- Apply for server hosting resources (e.g., AWS)&lt;br&gt;&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=4;fillColor=none;gradientColor=#007FFF;fontSize=9;fontColor=#FFFFFF;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-580" y="87" width="160" height="101" as="geometry" />
+        </mxCell>
+        <mxCell id="QSUy4tFUz2pQAqIfRtLM-54" value="&lt;h1&gt;&lt;span style=&quot;white-space: normal;&quot;&gt;Dec 8 - Dec 14&lt;/span&gt;&lt;br&gt;&lt;/h1&gt;&lt;p&gt;Navigate through building simple React Native applications to understand the fundamentals&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=4;fillColor=none;gradientColor=#007FFF;fontSize=9;fontColor=#FFFFFF;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-410" y="236.5" width="160" height="77" as="geometry" />
+        </mxCell>
+        <mxCell id="QSUy4tFUz2pQAqIfRtLM-55" value="&lt;h1&gt;Dec 15 - Dec 21&lt;/h1&gt;&lt;p&gt;- Assess the progress in learning React Native and provide additional resources as needed&lt;/p&gt;&lt;p&gt;- Analyze the HLD and LLD requirements for redevelopment&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=4;fillColor=none;gradientColor=#007FFF;fontSize=9;fontColor=#FFFFFF;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-580" y="350" width="160" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="QSUy4tFUz2pQAqIfRtLM-56" value="&lt;h1&gt;Dec 22 - Dec 28&lt;/h1&gt;&lt;p&gt;- Experiment with more complex React Native features and components&lt;/p&gt;&lt;p&gt;- Refine HLD and LLD for Uponly PRO application&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=4;fillColor=none;gradientColor=#007FFF;fontSize=9;fontColor=#FFFFFF;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-405" y="507" width="160" height="106" as="geometry" />
+        </mxCell>
+        <mxCell id="QSUy4tFUz2pQAqIfRtLM-57" value="&lt;h1&gt;&lt;span style=&quot;white-space: normal;&quot;&gt;Dec 29 - Jan 4&lt;/span&gt;&lt;br&gt;&lt;/h1&gt;&lt;p&gt;- Review the team&#39;s understanding of React Native and provide feedback on practice applications&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=4;fillColor=none;gradientColor=#007FFF;fontSize=9;fontColor=#FFFFFF;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-580" y="658.5" width="160" height="83" as="geometry" />
+        </mxCell>
+        <mxCell id="QSUy4tFUz2pQAqIfRtLM-58" value="&lt;h1&gt;Jan 5 - Jan 11&lt;/h1&gt;&lt;p&gt;- Evaluate the progress to plan and design React Native-based applications&lt;/p&gt;&lt;p&gt;- Finalize server requirements and begin setup&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=4;fillColor=none;gradientColor=#007FFF;fontSize=9;fontColor=#FFFFFF;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-410" y="787" width="160" height="106" as="geometry" />
+        </mxCell>
+        <mxCell id="QSUy4tFUz2pQAqIfRtLM-59" value="&lt;h1&gt;Jan 12 - Jan 18&lt;/h1&gt;&lt;p&gt;- Complete server setup for redevelopment&lt;/p&gt;&lt;p&gt;- Review and consolidate user feedback on the current Uponly PRO application&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=4;fillColor=none;gradientColor=#007FFF;fontSize=9;fontColor=#FFFFFF;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-570" y="937" width="160" height="106" as="geometry" />
+        </mxCell>
+        <mxCell id="QSUy4tFUz2pQAqIfRtLM-60" value="&lt;h1&gt;Jan 19 - Jan 25&lt;/h1&gt;&lt;p&gt;Planning the architecture and design of the new React Native-based Uponly PRO application&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=4;fillColor=none;gradientColor=#007FFF;fontSize=9;fontColor=#FFFFFF;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-405" y="1085" width="160" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="QSUy4tFUz2pQAqIfRtLM-61" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;strokeWidth=1;fillColor=#F2931E;fontSize=13;fontColor=#FFFFFF;align=center;gradientColor=none;gradientDirection=east;verticalAlign=top;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="-630" y="1200" width="220" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="QSUy4tFUz2pQAqIfRtLM-62" value="9" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=30;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="-620" y="1235" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="QSUy4tFUz2pQAqIfRtLM-63" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;strokeWidth=1;fillColor=#10739E;fontSize=13;fontColor=#FFFFFF;align=center;gradientColor=none;gradientDirection=east;verticalAlign=top;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="-460" y="1315" width="220" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="QSUy4tFUz2pQAqIfRtLM-64" value="10" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=30;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="-445" y="1352.5" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="QSUy4tFUz2pQAqIfRtLM-65" value="&lt;h1&gt;Jan 26 - Feb 1&lt;/h1&gt;&lt;p&gt;Review the progress in planning the React Native redevelopment and provide feedback&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=4;fillColor=none;gradientColor=#007FFF;fontSize=9;fontColor=#FFFFFF;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-580" y="1206.5" width="160" height="77" as="geometry" />
+        </mxCell>
+        <mxCell id="QSUy4tFUz2pQAqIfRtLM-66" value="&lt;h1&gt;&lt;span style=&quot;white-space: normal;&quot;&gt;Feb 2 - Feb 8&lt;/span&gt;&lt;br&gt;&lt;/h1&gt;&lt;p&gt;Ensure the team is ready to begin the actual development of the React Native application&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=4;fillColor=none;gradientColor=#007FFF;fontSize=9;fontColor=#FFFFFF;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-410" y="1324" width="160" height="77" as="geometry" />
+        </mxCell>
+        <mxCell id="QSUy4tFUz2pQAqIfRtLM-67" value="&lt;b&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;PRO Revamp Timeline &lt;br&gt;[ Phase 1 ]&lt;br&gt;(Dec 1 - Feb 15)&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-620" y="-130" width="390" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="QSUy4tFUz2pQAqIfRtLM-68" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;strokeWidth=1;fillColor=#F2931E;fontSize=13;fontColor=#FFFFFF;align=center;gradientColor=none;gradientDirection=east;verticalAlign=top;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="-630" y="1450" width="220" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="QSUy4tFUz2pQAqIfRtLM-69" value="11" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=30;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="-620" y="1485" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="QSUy4tFUz2pQAqIfRtLM-70" value="&lt;h1&gt;Feb 9 - Feb 15&lt;/h1&gt;&lt;p&gt;Initiate the development of the React Native-based Uponly PRO application&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=4;fillColor=none;gradientColor=#007FFF;fontSize=9;fontColor=#FFFFFF;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-570" y="1463" width="160" height="77" as="geometry" />
+        </mxCell>
+        <mxCell id="QSUy4tFUz2pQAqIfRtLM-71" value="&lt;h1&gt;&lt;font style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 48px;&quot;&gt;Uponly &lt;font color=&quot;#8a641a&quot;&gt;Pro &lt;/font&gt;Revamp Timeline&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;font style=&quot;font-size: 36px;&quot;&gt;(Dec 1 - May 2)&lt;/font&gt;&lt;/font&gt;&lt;/h1&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-180" y="613" width="340" height="416.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
