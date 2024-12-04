@@ -4,9 +4,9 @@
     /* Dark background */
     color: #f0f0f0;
     /* Light text for the header */
-    height: 200px;
+    height: 180px;
     /* Larger header height */
-    padding: 40px 20px;
+    padding: 40px 40px;
     /* Adjust padding for better spacing */
     position: relative;
 }
