@@ -1,0 +1,7 @@
+site_name: Uponly Technologies
+theme:
+  name: material
+site_url: https://uponly-technologies.github.io/uponly-documentation/
+plugins:
+  - search
+  - git-revision-date-localized
