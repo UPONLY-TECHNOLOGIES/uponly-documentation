@@ -29,4 +29,4 @@ A comprehensive suite of tools designed for next-generation businesses. Explore 
 ## Contact Us
 📧 Email: support@uponlytech.com  
 🌐 Website: [Uponly Technologies](https://uponlytech.com)  
-📞 Phone: +91 7718811069
+📞 Phone: +1 (123) 456-7890
