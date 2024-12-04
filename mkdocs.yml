@@ -1,7 +1,45 @@
 site_name: Uponly Technologies
-theme:
-  name: material
 site_url: https://uponly-technologies.github.io/uponly-documentation/
+
 plugins:
   - search
   - git-revision-date-localized
+
+theme:
+  name: material
+  palette:
+    - scheme: slate
+      primary: indigo
+      accent: cyan
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+    - scheme: default
+      primary: indigo
+      accent: cyan
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+  logo: assets/images/logo.png
+  favicon: assets/images/favicon.ico
+  features:
+    - navigation.top
+    - navigation.tabs
+    - navigation.expand
+    - search.suggest
+
+
+extra_css:
+  - assets/styles/style.css
+
+extra_javascript:
+  - assets/scripts/main.js
+
+nav:
+  - Home: index.md
+  - Uponly Pro:
+      - Overview: uponly-pro/index.md
+      - High-Level Design: uponly-pro/hld.md
+      - Low-Level Design: uponly-pro/lld.md
+      - API Documentation: uponly-pro/api.md
+      - Integration Guidelines: uponly-pro/integration.md

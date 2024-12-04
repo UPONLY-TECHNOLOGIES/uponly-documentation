@@ -1,0 +1,128 @@
+/* Header Customization */
+.md-header__inner {
+    background-color: #2a2a2a;
+    /* Dark background */
+    color: #f0f0f0;
+    /* Light text for the header */
+    height: 180px;
+    /* Larger header height */
+    padding: 40px 40px;
+    /* Adjust padding for better spacing */
+    position: relative;
+}
+
+.md-header-nav__title {
+    font-size: 48px;
+    /* Adjust title size */
+    font-weight: normal;
+    /* Subtle font weight */
+    text-align: center;
+    margin-top: 40px;
+    color: #ffffff;
+    /* White color for the header title */
+}
+
+.md-header .md-logo img {
+    width: 250px;
+    /* Adjust logo size */
+    height: auto;
+    /* Maintain aspect ratio */
+}
+
+/* Main Content Section - Matte and Clean Headers */
+.md-typeset h1 {
+    font-size: 40px;
+    /* Adjust font size for a clean look */
+    font-weight: 500;
+    /* Slightly bold for prominence */
+    color: #b0bec5;
+    /* Muted light grey-blue color */
+    text-transform: none;
+    /* Keep text natural */
+    margin-bottom: 15px;
+    /* Space below header */
+}
+
+.md-typeset h2 {
+    font-size: 30px;
+    /* Slightly smaller than h1 */
+    font-weight: 500;
+    /* Subtle weight for a matte look */
+    color: #90a4ae;
+    /* Muted grey-blue color */
+    text-transform: none;
+    /* Natural text styling */
+    margin-bottom: 10px;
+    /* Space below header */
+}
+
+.md-typeset h3 {
+    font-size: 24px;
+    /* Smaller header */
+    font-weight: 500;
+    /* Subtle weight */
+    color: #607d8b;
+    /* Softer blue-grey color */
+    text-transform: none;
+    /* Clean and natural */
+    margin-bottom: 8px;
+    /* Space below header */
+}
+
+.md-typeset p {
+    font-family: 'Helvetica', sans-serif;
+    color: #b0bec5;
+    /* Muted light grey-blue text for paragraphs */
+}
+
+/* Link styles */
+a {
+    color: #80cbc4;
+    /* Soft teal color */
+}
+
+.md-typeset a:hover {
+    color: #4db6ac;
+    /* Slightly darker teal on hover */
+}
+
+/* Footer Styling */
+.md-footer {
+    background-color: #151515;
+    color: #aaa;
+    text-align: center;
+    padding: 15px;
+}
+
+/* Dark Mode Customization */
+body.dark-mode .md-header__inner {
+    background-color: #111;
+    /* Darker shade for dark mode */
+}
+
+body.dark-mode .md-header-nav__title {
+    color: #ffffff;
+    /* Light text for dark mode */
+}
+
+body.dark-mode .md-typeset h1 {
+    color: #b0bec5;
+    /* Soft grey-blue for dark mode */
+}
+
+body.dark-mode .md-typeset h2 {
+    color: #90a4ae;
+    /* Muted grey-blue for dark mode */
+}
+
+body.dark-mode .md-typeset h3 {
+    color: #607d8b;
+    /* Soft blue-grey for dark mode */
+}
+
+body.dark-mode .md-footer {
+    background-color: #111;
+    /* Dark footer for dark mode */
+    color: #ccc;
+    /* Light grey text */
+}
