@@ -1,10 +1,6 @@
 site_name: Uponly Technologies
 site_url: https://uponly-technologies.github.io/uponly-documentation/
 
-plugins:
-  - search
-  - git-revision-date-localized
-
 theme:
   name: material
   palette:
