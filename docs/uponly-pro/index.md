@@ -28,10 +28,10 @@ Here’s what you’ll find:
 
 ## Documentation Sections
 
-### [High-Level Design (HLD)](uponly-pro/hld.md)
+### [High-Level Design (HLD)](hld.md)
 Gain an overview of the application's architecture, core components, and workflows.
 
-### Embedded Architecture Diagram
+### System Architecture Diagram
 Below is a high-level architecture diagram of Uponly Pro:  
 
 <iframe src="diagrams/HLD/uponly_pro_hld.html" width="100%" height="600px" frameborder="0" allowfullscreen></iframe>
@@ -72,17 +72,6 @@ To start using Uponly Pro, follow these steps:
 4. **Explore Features**: Use the dashboard to explore analytics and insights.
 
 For detailed installation and setup instructions, visit the [Getting Started Guide](uponly-pro/getting-started.md).
-
----
-
-## Feedback and Support
-
-Have questions or need assistance? Contact our support team:
-- **Email**: support@uponlypro.com
-- **Chat**: Available in the Uponly Pro app and on our website.
-- **Community Forum**: Join discussions with other users and developers.
-
-We value your feedback and are committed to improving Uponly Pro continuously.
 
 ---
 
