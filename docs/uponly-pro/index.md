@@ -34,7 +34,7 @@ Gain an overview of the application's architecture, core components, and workflo
 ### Embedded Architecture Diagram
 Below is a high-level architecture diagram of Uponly Pro:  
 
-<iframe src="diagrams/uponly-hld.html" width="100%" height="600px" frameborder="0" allowfullscreen></iframe>
+<iframe src="diagrams/HLD/uponly_pro_hld.html" width="100%" height="600px" frameborder="0" allowfullscreen></iframe>
 
 ---
 
