@@ -4,7 +4,7 @@
     /* Dark background */
     color: #f0f0f0;
     /* Light text for the header */
-    height: 180px;
+    height: 50px;
     /* Larger header height */
     padding: 40px 40px;
     /* Adjust padding for better spacing */
@@ -12,18 +12,18 @@
 }
 
 .md-header-nav__title {
-    font-size: 48px;
+    font-size: 30px;
     /* Adjust title size */
     font-weight: normal;
     /* Subtle font weight */
     text-align: center;
-    margin-top: 40px;
+    margin-top: 20px; 
     color: #ffffff;
     /* White color for the header title */
 }
 
 .md-header .md-logo img {
-    width: 250px;
+    width: 120px;
     /* Adjust logo size */
     height: auto;
     /* Maintain aspect ratio */
