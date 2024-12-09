@@ -7,7 +7,7 @@
         <mxCell id="2" value="Database Server" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="17" y="760" width="313" height="280" as="geometry" />
         </mxCell>
-        <mxCell id="3" value="Worker" style="whiteSpace=wrap;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+        <mxCell id="3" value="Worker" style="whiteSpace=wrap;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="425" y="205" width="326" height="88" as="geometry" />
         </mxCell>
         <mxCell id="4" value="App Server" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
