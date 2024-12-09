@@ -407,9 +407,10 @@
     </span>
   </a>
   
-</li>
-      
-        <li class="md-nav__item">
+    <nav class="md-nav" aria-label="High-Level Design (HLD)">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
   <a href="#1-use-case-diagram" class="md-nav__link">
     <span class="md-ellipsis">
       1. Use Case Diagram
@@ -417,8 +418,8 @@
   </a>
   
 </li>
-      
-        <li class="md-nav__item">
+        
+          <li class="md-nav__item">
   <a href="#2-system-architecture-diagram" class="md-nav__link">
     <span class="md-ellipsis">
       2. System Architecture Diagram
@@ -426,31 +427,36 @@
   </a>
   
 </li>
-      
-        <li class="md-nav__item">
-  <a href="#3-data-flow-diagram-dfd" class="md-nav__link">
+        
+          <li class="md-nav__item">
+  <a href="#3-data-flow-diagram" class="md-nav__link">
     <span class="md-ellipsis">
-      3. Data Flow Diagram (DFD)
+      3. Data Flow Diagram
     </span>
   </a>
   
 </li>
-      
-        <li class="md-nav__item">
-  <a href="#4-entity-relationship-er-diagram" class="md-nav__link">
+        
+          <li class="md-nav__item">
+  <a href="#4-entity-relationship-diagram" class="md-nav__link">
     <span class="md-ellipsis">
-      4. Entity-Relationship (ER) Diagram
+      4. Entity-Relationship Diagram
     </span>
   </a>
   
 </li>
-      
-        <li class="md-nav__item">
+        
+          <li class="md-nav__item">
   <a href="#conclusion" class="md-nav__link">
     <span class="md-ellipsis">
       Conclusion
     </span>
   </a>
+  
+</li>
+        
+      </ul>
+    </nav>
   
 </li>
       
@@ -564,9 +570,10 @@
     </span>
   </a>
   
-</li>
-      
-        <li class="md-nav__item">
+    <nav class="md-nav" aria-label="High-Level Design (HLD)">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
   <a href="#1-use-case-diagram" class="md-nav__link">
     <span class="md-ellipsis">
       1. Use Case Diagram
@@ -574,8 +581,8 @@
   </a>
   
 </li>
-      
-        <li class="md-nav__item">
+        
+          <li class="md-nav__item">
   <a href="#2-system-architecture-diagram" class="md-nav__link">
     <span class="md-ellipsis">
       2. System Architecture Diagram
@@ -583,31 +590,36 @@
   </a>
   
 </li>
-      
-        <li class="md-nav__item">
-  <a href="#3-data-flow-diagram-dfd" class="md-nav__link">
+        
+          <li class="md-nav__item">
+  <a href="#3-data-flow-diagram" class="md-nav__link">
     <span class="md-ellipsis">
-      3. Data Flow Diagram (DFD)
+      3. Data Flow Diagram
     </span>
   </a>
   
 </li>
-      
-        <li class="md-nav__item">
-  <a href="#4-entity-relationship-er-diagram" class="md-nav__link">
+        
+          <li class="md-nav__item">
+  <a href="#4-entity-relationship-diagram" class="md-nav__link">
     <span class="md-ellipsis">
-      4. Entity-Relationship (ER) Diagram
+      4. Entity-Relationship Diagram
     </span>
   </a>
   
 </li>
-      
-        <li class="md-nav__item">
+        
+          <li class="md-nav__item">
   <a href="#conclusion" class="md-nav__link">
     <span class="md-ellipsis">
       Conclusion
     </span>
   </a>
+  
+</li>
+        
+      </ul>
+    </nav>
   
 </li>
       
@@ -628,17 +640,18 @@
 
   <h1>High-Level Design</h1>
 
-<h3 id="high-level-design-hld">High-Level Design (HLD)</h3>
+<h2 id="high-level-design-hld">High-Level Design (HLD)</h2>
 <p>This section provides a high-level view of the <strong>Financial Portfolio Tracking and Planning</strong> application, outlining the core architecture and workflows. The design will help stakeholders and developers understand how the app operates, from user interaction to backend data processing, and guide the transition to Low-Level Design (LLD).</p>
 <hr />
 <h3 id="1-use-case-diagram">1. Use Case Diagram</h3>
 <p>The <strong>Use Case Diagram</strong> outlines the actors (users or external systems) and their interactions with the system. For a financial portfolio tracking and planning app, typical actors could include a regular user (investor), admin, and external financial services (e.g., APIs for stock prices, mutual funds, insurance).</p>
-<p><strong>Description</strong>:<br />
-- <strong>Purpose</strong>: To define the app's functional scope and the user's potential interactions, including viewing portfolio performance, adding insurance plans, setting financial goals, and buying mutual funds.<br />
-- <strong>Components</strong>:<br />
-  - <strong>Actors</strong>: Investor (User), Admin, External Financial APIs (for live data), and Financial Institutions.<br />
-  - <strong>Use Cases</strong>: Portfolio Management, Mutual Fund Investments, Goal Planning, Insurance Purchase, Risk Assessment, Notifications.<br />
-- <strong>Flow</strong>: This diagram identifies the key functionalities of the app from a user's perspective, mapping out the major interactions for achieving financial goals.</p>
+<ul>
+<li><strong>Purpose</strong>: To define the app's functional scope and the user's potential interactions, including viewing portfolio performance, adding insurance plans, setting financial goals, and buying mutual funds.  </li>
+<li><strong>Components</strong>:  </li>
+<li><strong>Actors</strong>: Investor (User), Admin, External Financial APIs (for live data), and Financial Institutions.  </li>
+<li><strong>Use Cases</strong>: Portfolio Management, Mutual Fund Investments, Goal Planning, Insurance Purchase, Risk Assessment, Notifications.  </li>
+<li><strong>Flow</strong>: This diagram identifies the key functionalities of the app from a user's perspective, mapping out the major interactions for achieving financial goals.</li>
+</ul>
 <p><strong>Diagram</strong>:<br />
 Below is a placeholder for the <strong>Use Case Diagram</strong>:</p>
 <iframe src="../assets/diagrams/HLD/uponly_pro_use_case_diagram.html" width="100%" height="600px" frameborder="0" allowfullscreen></iframe>
@@ -646,43 +659,46 @@ Below is a placeholder for the <strong>Use Case Diagram</strong>:</p>
 <hr />
 <h3 id="2-system-architecture-diagram">2. System Architecture Diagram</h3>
 <p>The <strong>System Architecture Diagram</strong> illustrates the major components of the application and how they interact. This includes the web server, app server, database, external APIs (for financial data), and the communication flow between these entities.</p>
-<p><strong>Description</strong>:<br />
-- <strong>Purpose</strong>: To provide a visual representation of the core system components, such as the web server (user interface), app server (business logic), and databases for storing portfolio data, goals, and transaction history.<br />
-- <strong>Components</strong>:<br />
-  - <strong>Web Server</strong>: Handles client requests and serves the UI.<br />
-  - <strong>App Server</strong>: Manages business logic such as portfolio calculations, goal tracking, and insurance plan recommendations.<br />
-  - <strong>Database</strong>: Stores user data, transaction history, mutual fund details, goal data, and insurance plans.<br />
-  - <strong>External APIs</strong>: For real-time financial data like stock prices, mutual fund NAVs, insurance products, etc.<br />
-- <strong>Flow</strong>: This diagram illustrates how users interact with the front end, how the app's backend processes requests, and how it communicates with external financial services for up-to-date information.</p>
+<ul>
+<li><strong>Purpose</strong>: To provide a visual representation of the core system components, such as the web server (user interface), app server (business logic), and databases for storing portfolio data, goals, and transaction history.  </li>
+<li><strong>Components</strong>:  </li>
+<li><strong>Web Server</strong>: Handles client requests and serves the UI.  </li>
+<li><strong>App Server</strong>: Manages business logic such as portfolio calculations, goal tracking, and insurance plan recommendations.  </li>
+<li><strong>Database</strong>: Stores user data, transaction history, mutual fund details, goal data, and insurance plans.  </li>
+<li><strong>External APIs</strong>: For real-time financial data like stock prices, mutual fund NAVs, insurance products, etc.  </li>
+<li><strong>Flow</strong>: This diagram illustrates how users interact with the front end, how the app's backend processes requests, and how it communicates with external financial services for up-to-date information.</li>
+</ul>
 <p><strong>Diagram</strong>:<br />
 Below is the <strong>System Architecture Diagram</strong>:</p>
 <iframe src="../assets/diagrams/HLD/uponly_pro_system_architecture_diagram.html" width="100%" height="600px" frameborder="0" allowfullscreen></iframe>
 
 <hr />
-<h3 id="3-data-flow-diagram-dfd">3. Data Flow Diagram (DFD)</h3>
+<h3 id="3-data-flow-diagram">3. Data Flow Diagram</h3>
 <p>The <strong>Data Flow Diagram (DFD)</strong> shows how data moves through the system, emphasizing the processes and interactions related to portfolio management, goal planning, mutual funds, and insurance purchases. It defines how user data flows into the system, how it's processed, and how it leads to actionable financial insights.</p>
-<p><strong>Description</strong>:<br />
-- <strong>Purpose</strong>: To describe how user data (e.g., portfolio details, investment plans, goals) is processed and transformed by the app.<br />
-- <strong>Components</strong>:<br />
-  - <strong>Processes</strong>: Portfolio Calculation, Risk Assessment, Investment Decision-Making.<br />
-  - <strong>Data Stores</strong>: Portfolio Data, Transaction History, Mutual Fund Data, Goal Data, Insurance Data.<br />
-  - <strong>External Entities</strong>: User (Investor), External APIs (for financial data).<br />
-  - <strong>Data Flows</strong>: User submits portfolio updates, interacts with goal planning features, purchases mutual funds or insurance plans.<br />
-- <strong>Flow</strong>: This diagram clarifies the flow of data within the system, ensuring it is processed efficiently and securely.</p>
+<ul>
+<li><strong>Purpose</strong>: To describe how user data (e.g., portfolio details, investment plans, goals) is processed and transformed by the app.  </li>
+<li><strong>Components</strong>:  </li>
+<li><strong>Processes</strong>: Portfolio Calculation, Risk Assessment, Investment Decision-Making.  </li>
+<li><strong>Data Stores</strong>: Portfolio Data, Transaction History, Mutual Fund Data, Goal Data, Insurance Data.  </li>
+<li><strong>External Entities</strong>: User (Investor), External APIs (for financial data).  </li>
+<li><strong>Data Flows</strong>: User submits portfolio updates, interacts with goal planning features, purchases mutual funds or insurance plans.  </li>
+<li><strong>Flow</strong>: This diagram clarifies the flow of data within the system, ensuring it is processed efficiently and securely.</li>
+</ul>
 <p><strong>Diagram</strong>:<br />
 Below is the <strong>Data Flow Diagram</strong>:</p>
 <iframe src="../assets/diagrams/HLD/uponly_pro_data_flow_diagram.html" width="100%" height="600px" frameborder="0" allowfullscreen></iframe>
 
 <hr />
-<h3 id="4-entity-relationship-er-diagram">4. Entity-Relationship (ER) Diagram</h3>
+<h3 id="4-entity-relationship-diagram">4. Entity-Relationship Diagram</h3>
 <p>The <strong>Entity-Relationship (ER) Diagram</strong> shows the relationships between the core entities of the application, such as Users, Portfolios, Goals, Transactions, Mutual Funds, and Insurance Plans. It helps define the system's database schema and the relationships that ensure data integrity.</p>
-<p><strong>Description</strong>:<br />
-- <strong>Purpose</strong>: To model the structure of the database, illustrating how entities such as user portfolios, transactions, and investment products (mutual funds, insurance) relate to each other.<br />
-- <strong>Components</strong>:<br />
-  - <strong>Entities</strong>: User, Portfolio, Transaction, Mutual Fund, Insurance Plan, Goal.<br />
-  - <strong>Attributes</strong>: Portfolio Balance, Transaction History, Mutual Fund Type, Insurance Coverage, Goal Target Amount.<br />
-  - <strong>Relationships</strong>: A user can have multiple portfolios; a portfolio can include multiple mutual fund investments; a user can set multiple financial goals.<br />
-- <strong>Flow</strong>: This diagram ensures that the data is structured logically, supporting the app's features and maintaining referential integrity.</p>
+<ul>
+<li><strong>Purpose</strong>: To model the structure of the database, illustrating how entities such as user portfolios, transactions, and investment products (mutual funds, insurance) relate to each other.  </li>
+<li><strong>Components</strong>:  </li>
+<li><strong>Entities</strong>: User, Portfolio, Transaction, Mutual Fund, Insurance Plan, Goal.  </li>
+<li><strong>Attributes</strong>: Portfolio Balance, Transaction History, Mutual Fund Type, Insurance Coverage, Goal Target Amount.  </li>
+<li><strong>Relationships</strong>: A user can have multiple portfolios; a portfolio can include multiple mutual fund investments; a user can set multiple financial goals.  </li>
+<li><strong>Flow</strong>: This diagram ensures that the data is structured logically, supporting the app's features and maintaining referential integrity.</li>
+</ul>
 <p><strong>Diagram</strong>:<br />
 Below is the <strong>Entity-Relationship Diagram</strong>:</p>
 <iframe src="../assets/diagrams/HLD/uponly_pro_entity_relationship_diagram.html" width="100%" height="600px" frameborder="0" allowfullscreen></iframe>
